@@ -46,6 +46,14 @@
             //Console.WriteLine(pages);
 
             // when use ref passes the original variable to the method, not a copy
+
+
+            ///q8
+            //double[] prices = { 25.5, 40.0 };
+
+            //ReplaceArray(ref prices);
+
+            //Console.WriteLine(prices.Length);
         }
         //q3
         //static void  PrintWelcomeMessage()
@@ -73,6 +81,11 @@
         //static void AddBonusPagesByRef(ref int pages)
         //{
         //    pages += 50;
+        //}
+
+        //static void ReplaceArray(ref double[] prices)
+        //{
+        //    prices = new double[] { 10.0, 12.5, 15.0 };
         //}
     }
 }
