@@ -100,7 +100,6 @@
         //}
 
 
-
         //static bool TryGetPrice(string title, out double price)
         //{
         //    if (title == "Clean Code")
@@ -114,6 +113,7 @@
         //        return false;
         //    }
         //}
+
 
     }
 }
