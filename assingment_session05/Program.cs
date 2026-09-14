@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            //Q1
+            //double[] hi = [25.5, 40.0, 33.75];
+            //Console.WriteLine(hi[1]);
         }
     }
 }
