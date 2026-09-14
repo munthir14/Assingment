@@ -23,11 +23,22 @@
             //q3
             //PrintWelcomeMessage();
 
+            //q4
+            //Console.WriteLine("Enter Book Name");
+            //string title = Console.ReadLine();
+            //PrintBookTitle(title);
+
         }
         //q3
         //static void  PrintWelcomeMessage()
         //{
         //    Console.WriteLine("welcome to the Library!");
+        //}
+
+
+        //static void PrintBookTitle(string title)
+        //{
+        //    Console.WriteLine("book title:" + title);
         //}
     }
 }
