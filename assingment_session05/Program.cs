@@ -40,6 +40,12 @@
             //Console.WriteLine(prices[0]);
             // chanhge value of the first element in the array inside the method, which will change the original value of the array.
 
+            //q7
+            //int pages = 400;
+            //AddBonusPagesByRef(ref pages);
+            //Console.WriteLine(pages);
+
+            // when use ref passes the original variable to the method, not a copy
         }
         //q3
         //static void  PrintWelcomeMessage()
@@ -61,6 +67,12 @@
         //static void ApplyDiscount(double[] prices)
         //{
         //    prices[0] = prices[0] - 5.0;
+        //}
+
+
+        //static void AddBonusPagesByRef(ref int pages)
+        //{
+        //    pages += 50;
         //}
     }
 }
