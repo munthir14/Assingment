@@ -28,6 +28,11 @@
             //string title = Console.ReadLine();
             //PrintBookTitle(title);
 
+            //q5
+            //int pages = 400;
+            //AddBonusPages(pages);
+            //Console.WriteLine(pages);
+            //adding 50 inside the method does not change the original value.
         }
         //q3
         //static void  PrintWelcomeMessage()
@@ -35,10 +40,17 @@
         //    Console.WriteLine("welcome to the Library!");
         //}
 
-
+        //q4
         //static void PrintBookTitle(string title)
         //{
         //    Console.WriteLine("book title:" + title);
         //}
+        //static void AddBonusPages(int pages)
+        //{
+        //    pages += 50;
+
+        //}
+
+
     }
 }
