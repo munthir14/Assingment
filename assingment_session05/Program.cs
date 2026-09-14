@@ -19,6 +19,15 @@
             //    {1,4 }
             //};
             //Console.WriteLine(shelfCopies[1, 0]);
+
+            //q3
+            //PrintWelcomeMessage();
+
         }
+        //q3
+        //static void  PrintWelcomeMessage()
+        //{
+        //    Console.WriteLine("welcome to the Library!");
+        //}
     }
 }
