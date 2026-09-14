@@ -33,6 +33,13 @@
             //AddBonusPages(pages);
             //Console.WriteLine(pages);
             //adding 50 inside the method does not change the original value.
+
+            //q6
+            //double[] prices = [25.5, 40.0];
+            //ApplyDiscount(prices);
+            //Console.WriteLine(prices[0]);
+            // chanhge value of the first element in the array inside the method, which will change the original value of the array.
+
         }
         //q3
         //static void  PrintWelcomeMessage()
@@ -51,6 +58,9 @@
 
         //}
 
-
+        //static void ApplyDiscount(double[] prices)
+        //{
+        //    prices[0] = prices[0] - 5.0;
+        //}
     }
 }
