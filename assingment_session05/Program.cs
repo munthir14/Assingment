@@ -2,6 +2,12 @@
 {
     internal class Program
     {
+
+        //static void PrintBookInfo(string title, int pages = 300)
+        //{
+        //    Console.WriteLine("Title: " + title);
+        //    Console.WriteLine("Pages: " + pages);
+        }
         static void Main(string[] args)
         {
 
@@ -65,6 +71,13 @@
             //{
             //    Console.WriteLine(price);
             //}
+
+            //q2-session-5
+            // Call with only the title
+            //PrintBookInfo("Clean Code");
+
+            //// Call with title and pages
+            //PrintBookInfo("C# Basics", 450);
         }
         //q3
         //static void  PrintWelcomeMessage()
