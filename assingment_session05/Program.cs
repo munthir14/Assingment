@@ -7,7 +7,14 @@
         //{
         //    Console.WriteLine("Title: " + title);
         //    Console.WriteLine("Pages: " + pages);
-        }
+
+        //}
+
+        //static void PrintBookInfo(string title, int pages = 300)
+        //{
+        //    Console.WriteLine("Title: " + title);
+        //    Console.WriteLine("Pages: " + pages);
+        //}
         static void Main(string[] args)
         {
 
@@ -78,6 +85,11 @@
 
             //// Call with title and pages
             //PrintBookInfo("C# Basics", 450);
+
+            //q3-session-5
+
+            //PrintBookInfo(pages: 450, title: "Clean Code");
+
         }
         //q3
         //static void  PrintWelcomeMessage()
