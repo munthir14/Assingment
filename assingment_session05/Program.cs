@@ -15,6 +15,15 @@
         //    Console.WriteLine("Title: " + title);
         //    Console.WriteLine("Pages: " + pages);
         //}
+
+
+        //static void PrintAllTitles(params string[] titles)
+        //{
+        //    foreach (string title in titles)
+        //    {
+        //        Console.WriteLine(title);
+        //    }
+        //}
         static void Main(string[] args)
         {
 
@@ -89,6 +98,11 @@
             //q3-session-5
 
             //PrintBookInfo(pages: 450, title: "Clean Code");
+
+            //q4-session-5
+
+            //PrintAllTitles("Clean Code", "C# Basics", "The Pragmatic Programmer");
+
 
         }
         //q3
