@@ -24,6 +24,14 @@
         //        Console.WriteLine(title);
         //    }
         //}
+
+
+
+        //class Book()
+        //{
+        //    private string password = "Secret";
+
+        //}
         static void Main(string[] args)
         {
 
@@ -102,6 +110,14 @@
             //q4-session-5
 
             //PrintAllTitles("Clean Code", "C# Basics", "The Pragmatic Programmer");
+
+
+            //q5-session-5
+            //Book book = new Book();
+            //Console.WriteLine(book.password);
+            ///password is private and can only be accessed inside the Book class.
+            ///
+
 
 
         }
