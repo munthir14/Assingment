@@ -27,12 +27,15 @@
 
 
 
-        class Book()
-        {
+        //class Book()
+        //{
             //    private string password = "Secret";
             //internal int copiesInStock = 5;
 
-        }
+            //public string Title = "dark";
+
+
+        //}
         static void Main(string[] args)
         {
 
@@ -123,6 +126,11 @@
             //Book book = new Book();
 
             //Console.WriteLine(book.copiesInStock);
+
+
+            //q7-session-5
+            //Book book = new Book();
+            //Console.WriteLine(book.Title);
 
 
 
