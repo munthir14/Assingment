@@ -27,11 +27,12 @@
 
 
 
-        //class Book()
-        //{
-        //    private string password = "Secret";
+        class Book()
+        {
+            //    private string password = "Secret";
+            //internal int copiesInStock = 5;
 
-        //}
+        }
         static void Main(string[] args)
         {
 
@@ -113,10 +114,15 @@
 
 
             //q5-session-5
-            //Book book = new Book();
             //Console.WriteLine(book.password);
             ///password is private and can only be accessed inside the Book class.
             ///
+
+
+            //q6-session-5
+            //Book book = new Book();
+
+            //Console.WriteLine(book.copiesInStock);
 
 
 
